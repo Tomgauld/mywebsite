@@ -12,7 +12,7 @@ a:hover {
 	text-decoration: underline;
 }
 .polaroid img {
-	border-radius: 100%;
+	border-radius: 50%;
 	width: 250px;
 	height: auto;
 	max-width: 100%;
